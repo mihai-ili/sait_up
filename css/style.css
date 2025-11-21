@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.margin-left{
+    margin-left: 10px;
+}
+
+.margin_auto{
+    margin: 0 auto;
+}
+.centr{
+    text-align: center;
+}
+.main{
+    max-width: 80%;
+     margin: 0 auto;
+}
+.card-img-top{
+    max-height: 50vh;
+    object-fit: cover;
+}
+.fon{
+    background-color: blanchedalmond;
+}
+.sered{
+    margin: 0 auto;
+}
+.tb{
+    padding: 5vh 0;
+}
+.white{
+    color: white;
+}
+.grey{
+    background-color: gray;
+     margin-top: 10px;
+    padding: 5px 0;
+}
+.margin-top{
+margin-top: 10px;
+}
+.cena{
+    color: rgb(12, 188, 76);
+}
+.container {
+  max-width: 1200px; /* или любой другой ограничитель ширины */
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px; /* внутренние отступы, чтобы не прилипать к краям */
+}
+
+.cards-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+
+.kvest-layout {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+.kvest-layout-card {
+  flex: 0 0 25rem;
+  max-width: 25rem;
+  width: 100%;
+}
+
+.kvest-layout-description {
+  flex: 1 1 300px;
+}
+
+.kvest-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  max-width: 25rem;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.kvest-card-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 768px) {
+  .cards-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .top{
+    margin-top: 10px;
+}
+}
+
+@media (min-width: 1200px) {
+  .cards-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 991.98px) {
+  .kvest-layout {
+    gap: 24px;
+  }
+
+  .kvest-layout .cards-container,
+.kvest-layout-description {
+    flex: 1 1 100%;
+  }
+
+  .kvest-card {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 575.98px) {
+    .top{
+    margin-top: 10px;
+}
+  .main {
+    max-width: 100%;
+    padding: 0 15px;
+  }
+
+  .kvest-layout-card {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+
+  .kateg {
+    font-size: 0.85rem;
+  }
+
+  .kvest-layout {
+    gap: 20px;
+  }
+}
+
+.kateg{
+    color: white;
+    border-radius: 15px;
+     display: inline-block;
+     padding: 5px 10px;
+    vertical-align: top;
+    margin: 10px 0; 
+}
+.jkc{
+    justify-content: center;
+}
+.card1 {
+  height: 100%;
+}
+.cent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* по желанию, чтобы всё было по центру вертикально */
+}

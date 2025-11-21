@@ -1,0 +1,6 @@
+User-agent: *
+Allow:/
+Sitemap:http://aaaabbrp.beget.tech/sitemap.xml
+Disallow:/project/
+Disallow:/css/
+Disallow:/js/

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generated with https://sitemap-xml.ru-->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+  <url>
+    <loc>http://aaaabbrp.beget.tech/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/index.php</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/kvest.php</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/news.php</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/vakansy.php</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/okvest.php?id=1</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/okvest.php?id=2</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/okvest.php?id=3</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/okvest.php?id=4</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/okvest.php?id=5</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/okvest.php?id=6</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/okvest.php?id=7</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://aaaabbrp.beget.tech/okvest.php?id=8</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
